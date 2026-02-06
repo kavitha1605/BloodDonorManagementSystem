@@ -1,0 +1,11 @@
+# compiled files
+*.class
+
+# mysql connector jar
+lib/
+
+# vscode settings
+.vscode/
+
+# accidental text file
+donors.txt.txt
